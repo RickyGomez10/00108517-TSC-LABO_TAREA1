@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Ricardo/CLionProjects/TSC-Labo1/display_tools.h
+
+C:/Users/Ricardo/CLionProjects/TSC-Labo1/main.cpp
+iostream
+-
+math_tools.h
+C:/Users/Ricardo/CLionProjects/TSC-Labo1/math_tools.h
+display_tools.h
+C:/Users/Ricardo/CLionProjects/TSC-Labo1/display_tools.h
+
+C:/Users/Ricardo/CLionProjects/TSC-Labo1/math_tools.h
+vector
+-
+math.h
+-
+
